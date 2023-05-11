@@ -15,6 +15,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/luiz-phellipe-801a111a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Atis93/Atis93/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/atis93/atis93/blob/output/github-contribution-grid-snake.svg)
 
 </div>
