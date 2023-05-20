@@ -4,7 +4,7 @@
    <a href="https://github.com/Atis93">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atis93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
-   ![Linux](https://giphy.com/gifs/xbox-xbox-series-x-the-division-2-warlords-of-new-york-UGWpLb1b4KddktMz0y)
+   ![Linux](https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif)
 
 </div>
 
