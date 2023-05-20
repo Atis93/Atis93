@@ -5,7 +5,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atis93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
      
     
-   (https://giphy.com/gifs/xbox-xbox-series-x-the-division-2-warlords-of-new-york-UGWpLb1b4KddktMz0y)
+   ![linux](https://giphy.com/gifs/xbox-xbox-series-x-the-division-2-warlords-of-new-york-UGWpLb1b4KddktMz0y)
     
     </div>
 
