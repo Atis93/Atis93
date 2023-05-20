@@ -3,13 +3,8 @@
  <div>
    <a href="https://github.com/Atis93">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atis93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <div>
-   <a href="https://github.com/Atis93">
-   <img height="180em" src="https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif"/>
-    
-   ![Linux](https://media.giphy.com/media/UGWpLb1b4KddktMz0y/giphy.gif)
-
-</div>
+   
+    ![Snake animation](https://github.com/atis93/atis93/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
