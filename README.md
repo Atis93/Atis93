@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/luiz-phellipe-801a111a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![vegeta](https://64.media.tumblr.com/0937d79a6e8878768515b61412687d15/tumblr_oywtffr5CT1qc9dlro1_400.gifv)
-  
-  ![Loading](https://tenor.com/pt-BR/view/load-loading-april-fools-gif-5435835)
 
+  <div class="tenor-gif-embed" data-postid="5435835" data-share-method="host" data-aspect-ratio="1.37302" data-width="100%"><a href="https://tenor.com/view/load-loading-april-fools-gif-5435835">Load Loading GIF</a>from <a href="https://tenor.com/search/load-gifs">Load GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
+ 
