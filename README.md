@@ -18,6 +18,6 @@
  
   ![vegeta](https://64.media.tumblr.com/0937d79a6e8878768515b61412687d15/tumblr_oywtffr5CT1qc9dlro1_400.gifv)
   
-  ![Snake animation](https://tenor.com/pt-BR/view/load-loading-april-fools-gif-5435835)
+  ![Loading](https://tenor.com/pt-BR/view/load-loading-april-fools-gif-5435835)
 
 </div>
