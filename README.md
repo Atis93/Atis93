@@ -3,11 +3,10 @@
  <div>
    <a href="https://github.com/Atis93">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atis93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-     
     
-   ![linux](https://giphy.com/gifs/xbox-xbox-series-x-the-division-2-warlords-of-new-york-UGWpLb1b4KddktMz0y)
-    
-    </div>
+   ![Linux](https://giphy.com/gifs/xbox-xbox-series-x-the-division-2-warlords-of-new-york-UGWpLb1b4KddktMz0y)
+
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
