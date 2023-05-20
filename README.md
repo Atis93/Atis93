@@ -16,7 +16,7 @@
  <div> 
   <a href="https://www.linkedin.com/in/luiz-phellipe-801a111a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Loading](https://i.pinimg.com/originals/b3/67/44/b3674496ef8bcbd96ffafdb4974d759d.gif)
+  ![Loading](<iframe src="https://assets.pinterest.com/ext/embed.html?id=461619030556869717" height="322" width="345" frameborder="0" scrolling="no" ></iframe>)
 
   </div>
  
